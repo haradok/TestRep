@@ -1,1 +1,2 @@
-testowy plik
+Jakis nowy tekst
+Koniec pliku
